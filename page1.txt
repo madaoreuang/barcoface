@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>หน้าแรก</TITLE>
+</HEAD>
+<body bgcolor="Wheat">
+
+<center>
+<h1><marquee direction="left">MENU COFFEE</marquee></h1>
+<br><br>
+<img src="img0.jpg" width="900px" height="800px"> 
+
+
+<br>
+
+<center><h2> MEMU COFFEE </h2><center>
+
+
+  <tr>
+    <th><img src="img1.jpg"widht="300"height="250"></th>
+    <th><img src="img2.jpg"widht="300"height="250"></th> 
+    <th><img src="img3.jpg"widht="300"height="250"></th>
+  </tr>
+  <tr>
+    <td><center><h3> สามพันโบก </h3></center></td>
+    <td><center><h3>  ผาแต้ม  </h3></center></td>
+    <td><center><h3>  วัดภูพร้าว  </h3></center></td>
+  </tr>
+  <tr>
+    <td><center><h3><a href="mydoc1.docx">ดาวโหลดไฟล์เอกสารนำเที่ยว</a> </h3></center></td>
+    <td><center><h3><a href="mydoc1.docx">ดาวโหลดไฟล์เอกสารนำเที่ยว</a> </h3></center></td>
+    <td><center><h3><a href="mydoc1.docx">ดาวโหลดไฟล์เอกสารนำเที่ยว</a> </h3></center></td>
+  </tr>
+
+
+
+
+
+</BODY>
+</HTML>

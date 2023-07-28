@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>barco'Night</TITLE>
+</HEAD>
+<body background="003.jpg"width="100%" height="100%"/>
+<body bgcolor="SlateGrey">
+<BODY " Text="white">
+<center>
+<h1><marquee direction="left">barco'Night "</marquee> Night bar</h1>
+<hr color="white"> 
+<br><br>
+โปรโมชั่นและเมนูอาหารร้านอาหาร barco cafe' Eatery
+<br>
+📅 วันนี้ - 31 พฤษภาคม 2563 นะคะ 📅
+⏰ เปิดบริการทุกวัน 10.30 - 20.30 น. เราเปิดบริการแบบนั่งทานที่ร้านแล้วนะคะ ⏰
+
+<br><br>
+<img src="food.jpg" width="1200px" height="800px"> 
+
+<br>

@@ -1,0 +1,73 @@
+<HTML>
+<HEAD>
+<center><font size="18">BARCO Café & Eatery</font></center> 
+<frameset rows="30%,70%,=>
+</HEAD>
+<div align="left">เมนูกาแฟและชาสุดพิเศษ &nbsp; เมนูอาหาร &nbsp; เครื่องดื่ม &nbsp; ติดต่อเพิ่มเติม</div>
+</div><div align="right"><a href="https://goo.gl/maps/xP8s6sfMsRENVLM88">ค้นหาร้าน
+</HEAD>
+<hr color="white"">
+<body bgcolor="#333333">
+<BODY " Text="white">
+<img src="page1.jpg" width="1200px" height="1000px"> 
+</HTML>
+<br><br>
+<center> <h2>ช่องทางในการติดตาม</h2>  </center><br>
+<center>
+<a target ="_blank" href= "https://www.youtube.com/"><img src="youtube.png"widht="40"height="40"></a>
+<a target ="_blank" href= "https://www.facebook.com/"><img src="facebook.jpg"widht="40"height="40"></a>
+<a target ="_blank" href= "https://twitter.com/"><img src="twitter.png"widht="40"height="40"></a>
+</center>
+</body>
+<br><br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bdLH8dY1rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<center>
+<br>
+บาร์โค่คาเฟ่ เปิดให้บริการตามปกติ
+เวลา 10.30-22.30
+WE ARE OPEN AS USUAL 
+<br>
+📌 สำรองที่นั่ง 
+<br>
+📩 Inbox http://www.m.me/barcocafe
+<br>
+☎️ โทร 080 013 7253
+<br>
+📍𝗠𝗮𝗽: Barco cafe' & eatery
+045 612 852
+</center>
+<br><br>
+
+<center>
+  <tr>
+    <th><img src="html2.jpg"widht="300"height="250"></th>
+    <th><img src="html3.jpg"widht="300"height="250"></th> 
+    <th><img src="html4.jpg"widht="300"height="250"></th>
+  </tr>
+  <tr>
+</center>
+
+<br>
+<center>
+ทุกวันศุกร์ - เสาร์  พบกับวงดนตรีสด เวลา 18.30-20.00 
+<br>
+เพลงเพราะๆ สไตล์ Easy Listening บรรยากาศดีๆ จากวง PANG & Friends 
+และวง UP To You 
+<br>
+ทุกวันอาทิตย์- วันพฤหัสบดี 
+พบกับ DJ. JJ KOOLZ  🎧 DJ และ Producer 
+ที่รู้จักกันดีกับดนตรี  Top Thai world music, jazz, hip hop, soul full house and beach club. แนวนั่งฟังดนตรีสบายๆ มีจังหวะ กับอาหารและเครื่องดื่มที่ Barco Café  
+Every Friday - Saturday, let's be thrilled with our live band 🎤🎼 who are good at Easy Listening songs and vibing 
+from PANG & Friends and UP To You 
+at Barco Café. 
+from 18.30 p.m. to 20.00 p.m. 
+<br>
+Let's indulge our Beat Louge  / Hip-hop Jazzy  relaxable and chilling music along with great food and drink 🥘🍗 with DJ. JJ KOOLZ. A well-known DJ x producer Top Thai world music, jazz, hip hop, soul full house and beach club with international music talent. 
+🗓 Feel free to leverage your pleasure with them everyday 
+We are happy to serve you all 
+</center>
+</html>
+</BODY>
+</HTML>

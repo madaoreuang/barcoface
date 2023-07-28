@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<TITLE>หน้าแรก</TITLE>
+</HEAD>
+<body bgcolor="SlateGrey">
+<BODY " Text="white">
+<center>
+<h1><marquee direction="left">MENU COFFEE"</marquee> PROMOTION</h1>
+<hr color="white"> 
+<br><br>
+โปรโมชั่นและเมนูอาหารร้านอาหาร barco cafe' Eatery
+<br>
+📅 วันนี้ - 31 พฤษภาคม 2563 นะคะ 📅
+⏰ เปิดบริการทุกวัน 10.30 - 20.30 น. เราเปิดบริการแบบนั่งทานที่ร้านแล้วนะคะ ⏰
+
+<br><br>
+<img src="food0.jpg" width="900px" height="800px"> 
+
+<br>
+
+<center><h2> MEMU BARCO'FOOD </h2><center>
+
+
+  <tr>
+    <th><img src="food1.jpg"widht="300"height="250"></th>
+    <th><img src="food2.jpg"widht="300"height="250"></th> 
+    <th><img src="food3.jpg"widht="300"height="250"></th>
+    <th><img src="food4.jpg"widht="300"height="250"></th>
+  </tr>
+  <tr>
+
+<center><h2> BARCO'Cafe Eatery Delivery </h2><center>
+<br><br>
+<img src="d0.jpg" width="450px" height="400px"> 
+<img src="d2.jpg" width="450px" height="400px"> 
+
+
+  <tr>
+    <th><img src="d6.jpg"widht="300"height="250"></th>
+    <th><img src="d4.jpg"widht="300"height="250"></th> 
+    <th><img src="d5.jpg"widht="300"height="250"></th>
+    <th><img src="d3.jpg"widht="300"height="250"></th>
+  </tr>
+  <tr>
+
+  <tr>
+    <th><img src="d8.jpg"widht="300"height="250"></th>
+    <th><img src="d9.jpg"widht="300"height="250"></th> 
+    <th><img src="d10.jpg"widht="300"height="250"></th>
+  </tr>
+  <tr>
+
+
+
+</BODY>
+</HTML>

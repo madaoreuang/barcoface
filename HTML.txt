@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<center><font size="18">BARCO Café & Eatery</font></center> 
+<frameset rows="30%,70%,=>
+</HEAD>
+<div align="left">เมนูกาแฟและชาสุดพิเศษ &nbsp; เมนูอาหาร &nbsp; เครื่องดื่ม &nbsp; ติดต่อเพิ่มเติม</div>
+</div><div align="right"><a href="https://goo.gl/maps/xP8s6sfMsRENVLM88">ค้นหาร้าน
+</HEAD>
+<hr color="white"">
+<body bgcolor="#FFFF99">
+<img src="page.jpg" width="1200px" height="800px"> 
+</HTML>
+
